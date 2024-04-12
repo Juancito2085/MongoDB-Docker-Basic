@@ -1,6 +1,6 @@
 # MongoDB-Docker-Basic
 
-CREANDO UN CONTENEDOR
+<h2>CREANDO UN CONTENEDOR</h2>
 
 <h3>Instalar Mongo:</h3> 
 En la línea de comando.
