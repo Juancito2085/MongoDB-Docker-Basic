@@ -2,7 +2,7 @@
 
 CREANDO UN CONTENEDOR
 
-Instalar Mongo: 
+<h3>Instalar Mongo:<h3/> 
 En la línea de comando.
 ____________________________________________________________
 Paso 1. Crear documento de docker-compose.
