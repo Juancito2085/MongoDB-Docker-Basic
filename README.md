@@ -3,6 +3,7 @@
 <h2>CREANDO UN CONTENEDOR</h2>
 
 <h3>Instalar Mongo:</h3> 
+
 <h4>En la línea de comando.</h4>
 ____________________________________________________________
 Paso 1. Crear documento de docker-compose.
@@ -35,8 +36,9 @@ services:
       - ./monguitodata/log:/var/log/mongodb/
     ports:
       - "27017:27017"
-    
-____________________________________________________________
+
+
+___________________________________________________________-
 paso 3. Crear archivos para correr comando en la la terminal:
 
 > touch mongo.sh
